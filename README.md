@@ -1,10 +1,15 @@
-**Skills**
+**langs**
 - C
 - Java
 - Swift
-- Svelte
+- Kotlin
 
-**Projects**
-- Depths of the Dungeon
-- Cetris
-- GxmeCentral
+**tech**
+- KMP
+- SwiftUI
+- misc. kotlin frameworks (ktor, exposed, etc.)
+
+**projects**
+- CLC Superfan
+- cetris
+- misc. advanced mobile apps projects
